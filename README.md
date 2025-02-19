@@ -1,10 +1,4 @@
-## 🛠️ Skills & Technologies
-- Java ☕
-- PHP 🖥️
-- HTML 🐍
-- C# 💻
-- MySQL 🗄️
-- Mobile App Development 📱
+Hii, Im Kithma.
 
 <!---
 Navodyakithma/Navodyakithma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
